@@ -1,5 +1,5 @@
 # データについて
-[データの取得はこちらから行えます](https://competition.nishika.com/competitions/mansion_2024spring/data)
+[データの取得はこちらから行ってください](https://competition.nishika.com/competitions/mansion_2024spring/data)  
 データ数：820017, 特徴量の数：28
 - ID
 - 種類
